@@ -102,6 +102,10 @@ body {
     font-weight: normal;
   }
 
+  .button-link {
+    text-decoration: none;
+  }
+
   img {
     display: block;
     margin: auto;
